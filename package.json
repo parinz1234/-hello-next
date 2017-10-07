@@ -1,0 +1,14 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^3.2.2",
+    "react": "15",
+    "react-dom": "15"
+  }
+}
